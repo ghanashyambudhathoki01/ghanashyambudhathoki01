@@ -8,21 +8,21 @@
 ![Learning](https://img.shields.io/badge/Still%20Learning-FFA500?style=for-the-badge)
 
 
-🎓 Python Beginner | 💻 Aspiring Backend Developer | 📚 Sharing My Learning Journey  
-📍 Kathmandu, Nepal | 🧠 Always learning and building small projects
+🎓 Python Beginner | 💻 Aspiring Software Developer | 📚 Sharing My Learning Journey  
+📍 Dolakha, Nepal | 🧠 Always learning and building small projects
 
 ---
 
 ## 🚧 What I'm Working On
-- 📘 Exploring Python through mini terminal projects
-- 🎯 Building confidence by creating beginner-friendly apps
+- 📘 Exploring Python through  projects
+- 🎯 Building confidence by creating beginner-friendly apps and software 
 - 🧰 Documenting everything I learn in public
 
 ---
 
 ## 🧠 What I'm Learning
 - Writing clean Python code and understanding logic flow
-- Practicing with loops, functions, conditionals, and error handling
+- Practicing with loops, functions, conditionals, and error handling and python library like Tkinter
 - Working with lists, tuples, dictionaries, and file handling
 - Using Git and GitHub to manage and publish code
 - Creating beginner terminal apps to apply what I learn
@@ -32,29 +32,22 @@
 
 ## 📘 My Learning Journey
 I began learning Python with the goal of building a future in tech, even though I had no programming background.  
-Over time, I’ve completed a Python bootcamp on Udemy and followed tutorials from creators like *Code With Harry*.  
+ 
 Alongside Python, I’ve explored tools like Git, GitHub, and even system admin platforms during my internship.  
 My focus right now is practicing consistently, building small projects, and learning how real-world tools and code work together.
 
 ---
 
-## 📂 Featured Projects
-
-📌 [Python-Mini-Projects](https://github.com/ankushdhojkarki/Python-Mini-Projects)  
-A collection of terminal-based beginner projects I created to practice Python.  
-➡️ Topics include: calculator, quiz app, number guesser, and more.
-
----
 
 ## 📈 My Goals
 - Contribute to open-source beginner repositories
-- Build a Python portfolio with 10+ projects
+- Build a some project 
 - Learn the basics of web development (HTML/CSS + Flask)
 
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ankush-dhoj-karki-59b0742ab/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ghanashyam-budhathoki-257b51366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ankushdhojkarki)
 
 
