@@ -11,7 +11,7 @@
 
 
 🎓 Python Beginner | 💻 Aspiring Software Developer | 📚 Sharing My Learning Journey  
-📍 Dolakha, Nepal | 🧠 Always learning and building small projects
+📍 Dolakha, Nepal | 🧠 Always learning and building projects
 
 ---
 
