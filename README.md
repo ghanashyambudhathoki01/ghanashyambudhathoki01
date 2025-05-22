@@ -6,6 +6,7 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Learning](https://img.shields.io/badge/Still%20Learning-FFA500?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 🎓 Python Beginner | 💻 Aspiring Software Developer | 📚 Sharing My Learning Journey  
