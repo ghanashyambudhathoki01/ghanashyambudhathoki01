@@ -8,7 +8,8 @@
 ![Learning](https://img.shields.io/badge/Still%20Learning-FFA500?style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ Addict](https://img.shields.io/badge/Code-Addict-blueviolet?style=for-the-badge)
-![Pull Request 
+
+
 🎓 Python Beginner | 💻 Aspiring Software Developer | 📚 Sharing My Learning Journey  
 📍 Dolakha, Nepal | 🧠 Always learning and building small projects
 
