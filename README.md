@@ -7,6 +7,11 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Learning](https://img.shields.io/badge/Still%20Learning-FFA500?style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![First Commit](https://img.shields.io/badge/First_Commit-Done-green?style=for-the-badge)
+![Bug Squasher](https://img.shields.io/badge/Bug-Squasher-red?style=for-the-badge&logo=bugatti&logoColor=white)
+![Project Finished](https://img.shields.io/badge/Project-Finished-brightgreen?style=for-the-badge)
+![Code Addict](https://img.shields.io/badge/Code-Addict-blueviolet?style=for-the-badge)
+![Pull Request Ninja](https://img.shields.io/badge/Pull_Request-Ninja-blue?style=for-the-badge)
 
 
 🎓 Python Beginner | 💻 Aspiring Software Developer | 📚 Sharing My Learning Journey  
