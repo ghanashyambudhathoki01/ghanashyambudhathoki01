@@ -28,7 +28,6 @@
 - Working with lists, tuples, dictionaries, and file handling
 - Using Git and GitHub to manage and publish code
 - Creating beginner terminal apps to apply what I learn
-- Understanding basic system administration tools (Endpoint Central, Active Directory)
 
 ---
 
