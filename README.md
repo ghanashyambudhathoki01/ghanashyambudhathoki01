@@ -16,7 +16,7 @@
 ---
 
 ## 🚧 What I'm Working On
-- 📘 Exploring Python through  projects
+- 📘 Exploring Python through mini projects
 - 🎯 Building confidence by creating beginner-friendly apps and software 
 - 🧰 Documenting everything I learn in public
 
@@ -35,7 +35,7 @@
 I began learning Python with the goal of building a future in tech, even though I had no programming background.  
  
 Alongside Python, I’ve explored tools like Git, GitHub, and even system admin platforms during my internship.  
-My focus right now is practicing consistently, building projects, and learning how real-world tools and code work together.
+My focus right now is practicing consistently, building mini projects, and learning how real-world tools and code work together.
 
 ---
 
