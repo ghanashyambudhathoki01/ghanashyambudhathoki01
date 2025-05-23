@@ -50,7 +50,6 @@ Alongside Python, I’ve explored tools like Git, GitHub, My focus right now is 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ghanashyam-budhathoki-257b51366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ghanashyambudhathoki01)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ghanashyam_072?igsh=dm9yZHZhYjJmcHZ6)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ghanashyambudhathoki03@gmail.com)
 <!---
 ghanashyambudhathoki01/ghanashyambudhathoki01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
