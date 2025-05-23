@@ -27,7 +27,7 @@
 - Practicing with loops, functions, conditionals, and error handling and python library like Tkinter
 - Working with lists, tuples, dictionaries, and file handling
 - Using Git and GitHub to manage and publish code
-- Creating beginner terminal apps to apply what I learn
+
 
 ---
 
