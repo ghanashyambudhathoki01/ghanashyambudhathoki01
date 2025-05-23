@@ -34,15 +34,14 @@
 ## 📘 My Learning Journey
 I began learning Python with the goal of building a future in tech, even though I had no programming background.  
  
-Alongside Python, I’ve explored tools like Git, GitHub, and even system admin platforms during my internship.  
-My focus right now is practicing consistently, building mini projects, and learning how real-world tools and code work together.
+Alongside Python, I’ve explored tools like Git, GitHub, My focus right now is practicing consistently, building mini projects, and learning how real-world tools and code work together.
 
 ---
 
 
 ## 📈 My Goals
 - Contribute to open-source beginner repositories
-- Build a some project 
+- Build a some mini project 
 - Learn the basics of web development (HTML/CSS + Flask)
 
 ---
