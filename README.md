@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Ghanshyam Budhathoki
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -10,30 +9,28 @@
 ![ Addict](https://img.shields.io/badge/Code-Addict-blueviolet?style=for-the-badge)
 
 
-🎓 Python Beginner | 💻 Aspiring Software Developer | 📚 Sharing My Learning Journey  
+🎓 Learning Pharse of Full Stack Developer | 💻 Aspiring Full Stack Developer | 📚 Sharing My Learning Journey  
 📍 Dolakha, Nepal | 🧠 Always learning and building projects
 
 ---
 
 ## 🚧 What I'm Working On
-- 📘 Exploring Python through mini projects
-- 🎯 Building confidence by creating beginner-friendly apps and software 
+- 📘 Exploring full stack developer course and learning too
+- 🎯 Building confidence
 - 🧰 Documenting everything I learn in public
 
 ---
 
 ## 🧠 What I'm Learning
-- Writing clean Python code and understanding logic flow
-- Practicing with loops, functions, conditionals, and error handling and python library like Tkinter
-- Working with lists, tuples, dictionaries, and file handling
+- Learning Full Stack Developer
 - Using Git and GitHub to manage and publish code
 
 
 ---
 
 ## 📘 My Learning Journey
-I began learning Python with the goal of building a future in tech, even though I had no programming background.  
- Alongside Python, I’ve explored tools like Git, GitHub, My focus right now is practicing consistently, building mini projects, and learning how real-world tools and code work together.
+I began learning full stack developer with the goal of building a future in tech, even though I had no programming background.  
+ Alongside full stack developer, I’ve explored tools like Git, GitHub, My focus right now is practicing consistently, building mini projects, and learning how real-world tools and code work together.
 
 ---
 
@@ -41,12 +38,11 @@ I began learning Python with the goal of building a future in tech, even though 
 ## 📈 My Goals
 - Contribute to open-source beginner repositories
 - Build a some mini projects
-- Learn the basics of web development (HTML/CSS + Flask)
+- Learn the full stack development
 
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ghanashyam-budhathoki-257b51366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ghanashyambudhathoki01)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ghanashyam_072?igsh=dm9yZHZhYjJmcHZ6)
 <!---
