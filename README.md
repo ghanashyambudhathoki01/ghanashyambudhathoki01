@@ -45,6 +45,7 @@ I began learning full stack developer with the goal of building a future in tech
 ## 🔗 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ghanashyambudhathoki01)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ghanashyam_072?igsh=dm9yZHZhYjJmcHZ6)
+[![Facebook](https://img.shields.io/badge/Facebook-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.facebook.com/samraz.budathoki.1)
 <!---
 ghanashyambudhathoki01/ghanashyambudhathoki01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
