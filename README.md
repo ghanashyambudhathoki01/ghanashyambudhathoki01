@@ -1,13 +1,33 @@
 # 👋 Hi, I'm Ghanshyam Budhathoki
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Learning](https://img.shields.io/badge/Still%20Learning-FFA500?style=for-the-badge)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![ Addict](https://img.shields.io/badge/Code-Addict-blueviolet?style=for-the-badge)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+If you want
 
 🎓 Learning Pharse of Full Stack Developer | 💻 Aspiring Full Stack Developer | 📚 Sharing My Learning Journey  
 📍 Dolakha, Nepal | 🧠 Always learning and building projects
