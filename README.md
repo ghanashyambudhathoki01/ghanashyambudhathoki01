@@ -1,34 +1,40 @@
 # 👋 Hi, I'm Ghanshyam Budhathoki
 
+<!-- Tech Stack -->
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/APIs-007ACC?style=for-the-badge&logo=apollographql&logoColor=white" alt="APIs">
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
 
+<!-- Developer Habits & Coding Lifestyle -->
+<img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git & GitHub">
+<img src="https://img.shields.io/badge/Code_Addict-ff1493?style=for-the-badge&logo=codewars&logoColor=white" alt="Code Addict">
+<img src="https://img.shields.io/badge/Debugging_Pro-ff4500?style=for-the-badge&logo=bugatti&logoColor=white" alt="Debugging Pro">
+<img src="https://img.shields.io/badge/Always_Learning-32cd32?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Always Learning">
 
+<!-- Productivity & Work Ethic -->
+<img src="https://img.shields.io/badge/Productivity-20b2aa?style=for-the-badge&logo=notion&logoColor=white" alt="Productivity">
+<img src="https://img.shields.io/badge/Consistency-ff6347?style=for-the-badge&logo=clockify&logoColor=white" alt="Consistency">
+<img src="https://img.shields.io/badge/Hard_Working-ff8c00?style=for-the-badge&logo=zapier&logoColor=white" alt="Hard Working">
+<img src="https://img.shields.io/badge/Focus-32cd32?style=for-the-badge&logo=clockify&logoColor=white" alt="Focus">
+<img src="https://img.shields.io/badge/Time_Management-ffb400?style=for-the-badge&logo=toggl&logoColor=white" alt="Time Management">
 
+<!-- Tools & Environment -->
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+<img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Terminal">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-If you want
-
+<!-- Fun & Personality -->
+<img src="https://img.shields.io/badge/Funny-ff69b4?style=for-the-badge&logo=messenger&logoColor=white" alt="Funny">
+<img src="https://img.shields.io/badge/Coffee-Love-6f4e37?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Coffee Lover">
+<img src="https://img.shields.io/badge/Memes-ff4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Memes Lover">
+<img src="https://img.shields.io/badge/Chill-1e90ff?style=for-the-badge&logo=slack&logoColor=white" alt="Chill Vibes">
 🎓 Learning Pharse of Full Stack Developer | 💻 Aspiring Full Stack Developer | 📚 Sharing My Learning Journey  
 📍 Dolakha, Nepal | 🧠 Always learning and building projects
 
