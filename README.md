@@ -34,7 +34,7 @@ Hi 👋! My name is Ghanashyam and I'm a Passionate Full Stack Developer from Ne
 <br clear="both">
 
 <!-- Snake animation replaced with GIF -->
-<img src="https://raw.githubusercontent.com/ghanashyambudhathoki01/ghanashyambudhathoki01/main/snake.gif" alt="Snake animation" />
+
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center; margin-top: 10px;">
 
