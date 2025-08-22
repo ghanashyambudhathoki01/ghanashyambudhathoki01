@@ -1,20 +1,17 @@
-<h2 align="left" style="color:green">Hi 👋! My name is Ghanashyam and I'm a Passionate Full Stack Developer from Nepal.</h2>
+<h2 align="left" style="color:green">
+Hi 👋! My name is Ghanashyam and I'm a Passionate Full Stack Developer from Nepal.
+</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghanashyambudhathoki01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghanashyambudhathoki01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghanashyambudhathoki01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghanashyambudhathoki01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
 
 <img align="right" height="150" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 ###
 
@@ -24,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
+</div>
 
 ###
 
@@ -36,8 +33,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ghanashyambudhathoki01/ghanashyambudhathoki01/output/snake.svg" alt="Snake animation" />
-<div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
+<!-- Snake animation replaced with GIF -->
+<img src="https://raw.githubusercontent.com/ghanashyambudhathoki01/ghanashyambudhathoki01/main/snake.gif" alt="Snake animation" />
+
+<div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center; margin-top: 10px;">
 
   <!-- Tech Stack -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -60,12 +59,16 @@
   <img src="https://img.shields.io/badge/Coffee-Love-6f4e37?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Coffee Lover">
 
 </div>
-<strong>🎓 Learning Pharse of Full Stack Developer | 💻 Aspiring Full Stack Developer | 📚 Sharing My Learning Journey  
-📍 Dolakha, Nepal | 🧠 Always learning and building projects./strong>
 
+<strong>
+🎓 Learning Phase of Full Stack Developer | 💻 Aspiring Full Stack Developer | 📚 Sharing My Learning Journey  
+📍 Dolakha, Nepal | 🧠 Always learning and building projects.
+</strong>
+
+---
 
 ## 🚧 What I'm Working On
-- 📘 Exploring full stack developer course and learning too
+- 📘 Exploring full stack developer course and learning
 - 🎯 Building confidence
 - 🧰 Documenting everything I learn in public
 
@@ -75,29 +78,23 @@
 - Learning Full Stack Developer
 - Using Git and GitHub to manage and publish code
 
-
 ---
 
 ## 📘 My Learning Journey
-I began learning full stack developer with the goal of building a future in tech, even though I had no programming background.  
- Alongside full stack developer, I’ve explored tools like Git, GitHub, My focus right now is practicing consistently, building mini projects, and learning how real-world tools and code work together.
+I began learning full stack development with the goal of building a future in tech, even though I had no programming background.  
+Alongside full stack development, I’ve explored tools like Git and GitHub. My focus now is practicing consistently, building mini projects, and learning how real-world tools and code work together.
 
 ---
 
-
 ## 📈 My Goals
 - Contribute to open-source beginner repositories
-- Build a some mini projects
-- Learn the full stack development
+- Build mini projects
+- Learn full stack development
 
 ---
 
 ## 🔗 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ghanashyambudhathoki01)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ghanashyam_072?igsh=dm9yZHZhYjJmcHZ6)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ghanashyam_072)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/samraz.budathoki.1)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x-twitter&logoColor=white)](https://x.com/ghanashyam_072?t=JBS2uJrcFMX2sKSo30KCnA&s=09)
-<!---
-ghanashyambudhathoki01/ghanashyambudhathoki01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x-twitter&logoColor=white)](https://x.com/ghanashyam_072)
