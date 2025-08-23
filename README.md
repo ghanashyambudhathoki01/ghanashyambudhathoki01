@@ -130,7 +130,7 @@ Alongside full stack development, I’ve explored tools like Git and GitHub. My 
 
 
   <!-- TikTok -->
-  <a href="tiktok.com/@samrajbudhathoki012" target="_blank">
+  <a href="https://tiktok.com/@samrajbudhathoki012" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&color=000000&logoColor=white&style=for-the-badge" height="35" alt="tiktok logo" />
   </a>
 </div>
