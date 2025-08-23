@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Ghanashyam Budhathoki 
-**A passionate Full Stack Developer  from Nepal**
+**A passionate Full Stack and application Developer from Nepal**
 
 
 ###
@@ -67,7 +67,7 @@
 </div>
 
 <strong>
-🎓 Learning Phase of Full Stack Developer | 💻 Aspiring Full Stack Developer | 📚 Sharing My Learning Journey  
+🎓 Learning Phase of Full Stack and application Developer | 💻 Aspiring Full Stack and application Developer | 📚 Sharing My Learning Journey  
 📍 Dolakha, Nepal | 🧠 Always learning and building projects.
 </strong>
 
@@ -82,12 +82,13 @@
 
 ## 🧠 What I'm Learning
 - Learning Full Stack Developer
+- - Learning Application Developer
 - Using Git and GitHub to manage and publish code
 
 ---
 
 ## 📘 My Learning Journey
-I began learning full stack development with the goal of building a future in tech, even though I had no programming background.  
+I began learning full stack and application  development with the goal of building a future in tech, even though I had no programming background.  
 Alongside full stack development, I’ve explored tools like Git and GitHub. My focus now is practicing consistently, building mini projects, and learning how real-world tools and code work together.
 
 ---
@@ -95,7 +96,7 @@ Alongside full stack development, I’ve explored tools like Git and GitHub. My 
 ## 📈 My Goals
 - Contribute to open-source beginner repositories
 - Build mini projects
-- Learn full stack development
+- Learn full stack and application development
 
 ---
 
