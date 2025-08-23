@@ -33,14 +33,43 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@Decoded_By_Ghanashyam012" target="_blank"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="youtube logo" /></a>
-  <a href="https://www.instagram.com/ghanashyam_072/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" /></a>
-  <a href="mailto:ghanashyambudhathoki03@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" /></a>
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@Decoded_By_Ghanashyam012" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="youtube logo" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/ghanashyam_072/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:ghanashyambudhathoki03@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/deepcore.codes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&logoColor=white&style=for-the-badge" height="35" alt="facebook logo" />
+  </a>
+
+  <!-- Twitter / X -->
+  <a href="https://x.com/ghanashyam_072?t=66He60KVEe0fv27jO93r2Q&s=09" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="twitter logo" />
+  </a>
+
+
+  <!-- GitHub -->
+  <a href="https://github.com/ghanashyambudhathoki01" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="35" alt="github logo" />
+  </a>
+
+
+  <!-- TikTok -->
+  <a href="tiktok.com/@samrajbudhathoki012" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&color=000000&logoColor=white&style=for-the-badge" height="35" alt="tiktok logo" />
+  </a>
 </div>
-
-<br clear="both">
-
-<!-- Snake animation replaced with GIF -->
 
 <!-- Snake Game Repo View -->
 
