@@ -32,8 +32,6 @@
 
 ###
 
-<
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
