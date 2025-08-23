@@ -79,7 +79,7 @@
 
 ## 🧠 What I'm Learning
 - Learning Full Stack Developer
-- - Learning Application Developer
+- Learning Application Developer
 - Using Git and GitHub to manage and publish code
 
 ---
