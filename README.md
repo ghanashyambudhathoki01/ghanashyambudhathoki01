@@ -71,7 +71,7 @@
 ---
 
 ## 🚧 What I'm Working On
-- 📘 Exploring full stack developer course and learning
+- 📘 Exploring full stack and application developer course and learning
 - 🎯 Building confidence
 - 🧰 Documenting everything I learn in public
 
@@ -86,7 +86,7 @@
 
 ## 📘 My Learning Journey
 I began learning full stack and application  development with the goal of building a future in tech, even though I had no programming background.  
-Alongside full stack development, I’ve explored tools like Git and GitHub. My focus now is practicing consistently, building mini projects, and learning how real-world tools and code work together.
+Alongside full stack and application development, I’ve explored tools like Git and GitHub. My focus now is practicing consistently, building mini projects, and learning how real-world tools and code work together.
 
 ---
 
