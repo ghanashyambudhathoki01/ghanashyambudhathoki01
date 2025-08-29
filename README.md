@@ -1,5 +1,6 @@
 # 💫 Hi 👋, I'm Ghanashyam Budhathoki 
 **A passionate Full Stack and application Developer from Nepal**
+        <img src = "https://github.com/ghanashyambudhathoki01&style=plastic&color=blueviolet" alt = "Profile Views"/>
 
 
 ###
