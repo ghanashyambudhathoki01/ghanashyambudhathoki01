@@ -103,6 +103,10 @@ Alongside full stack and application development, I’ve explored tools like Git
   <a href="https://www.youtube.com/@Decoded_By_Ghanashyam012" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
+<a href="https://www.linkedin.com/in/ghanashyam-budhathoki-3a7014381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0A66C2&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
+
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/ghanashyam_072/" target="_blank">
