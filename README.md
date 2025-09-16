@@ -6,7 +6,9 @@
 ###
 ## 
 <img src="https://komarev.com/ghpvc/?username=ghanashyambudhathoki01&style=plastic&color=blueviolet" alt="Profile Views"/>
- 
+ <img src="https://github-readme-stats.vercel.app/api?username=ghanashyambudhathoki01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />  
+
+
 
 <img src="https://img.shields.io/badge/GitHub%20Grade-A%2B-brightgreen?style=for-the-badge&logo=github" />
 
