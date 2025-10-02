@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghanashyambudhathoki01&theme=dracula&hide_border=false&hide_total=true" height="150" alt="GitHub Streak Stats" />
 </p>
+<img align="right" height="150" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />  
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghanashyambudhathoki01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
