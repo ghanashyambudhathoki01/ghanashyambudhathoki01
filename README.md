@@ -8,7 +8,7 @@ A passionate Full Stack and application Developer from Nepal
 <img src="https://komarev.com/ghpvc/?username=ghanashyambudhathoki01&style=plastic&color=blueviolet" alt="Profile Views"/>  
 <p align="center">  
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghanashyambudhathoki01&theme=dracula&hide_border=false&hide_total=true" height="150" alt="GitHub Streak Stats" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghanashyambudhathoki01&theme=dracula&hide_border=false&hide_total=true" height="150" alt="GitHub Streak Stats" />  
 
 </p>    <!-- Top Languages -->    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghanashyambudhathoki01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />  </div> 
 
