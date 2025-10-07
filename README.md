@@ -107,8 +107,11 @@ Learn full stack and application development
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />  
   </a>    <!-- Gmail -->    <a href="mailto:ghanashyambudhathoki03@gmail.com" target="_blank">  
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />  
-  </a>    <!-- Facebook -->    <a href="https://www.facebook.com/deepcore.codes" target="_blank">  
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&logoColor=white&style=for-the-badge" height="35" alt="facebook logo" />  
+  </a>   
+ <a href="https://medium.com/@ghanashyambudhathoki03" target="_blank">  
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&color=000000&logoColor=white&style=for-the-badge" height="35" alt="Medium logo" />  
+</a>
+
   </a>    <!-- Twitter / X -->    <a href="https://x.com/ghanashyam_072?t=66He60KVEe0fv27jO93r2Q&s=09" target="_blank">  
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="twitter logo" />  
   </a>    <!-- GitHub -->    <a href="https://github.com/ghanashyambudhathoki01" target="_blank">  
