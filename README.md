@@ -111,7 +111,6 @@ Learn full stack and application development
  <a href="https://medium.com/@ghanashyambudhathoki03" target="_blank">  
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&color=000000&logoColor=white&style=for-the-badge" height="35" alt="Medium logo" />  
 </a>
-
   </a>    <!-- Twitter / X -->    <a href="https://x.com/ghanashyam_072?t=66He60KVEe0fv27jO93r2Q&s=09" target="_blank">  
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="twitter logo" />  
   </a>    <!-- GitHub -->    <a href="https://github.com/ghanashyambudhathoki01" target="_blank">  
