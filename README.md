@@ -45,7 +45,7 @@ A passionate Full Stack and application Developer from Nepal
   <img src="https://img.shields.io/badge/Funny-ff69b4?style=for-the-badge&logo=messenger&logoColor=white" alt="Funny">  
   <img src="https://img.shields.io/badge/Coffee-Love-6f4e37?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Coffee Lover">  </div>  
 <strong>  
-🎓 Learning Phase of Full Stack and application Developer | 💻 Aspiring Full Stack and application Developer | 📚 Sharing My Learning Journey    
+🎓 Learning Phase of Full Stack Development  | 💻 Aspiring Full Stack and application Developer | 📚 Sharing My Learning Journey    
 📍 Dolakha, Nepal | 🧠 Always learning and building projects.  
 </strong>  
 ---
@@ -64,9 +64,7 @@ A passionate Full Stack and application Developer from Nepal
 
 🧠 What I'm Learning
 
-Learning Full Stack Developer
-
-Learning Application Developer
+Learning Full stack development.
 
 Using Git and GitHub to manage and publish code
 
@@ -88,7 +86,7 @@ Contribute to open-source beginner repositories
 
 Build mini projects
 
-Learn full stack and application development
+Learn full stack development
 
 
 
