@@ -1,5 +1,5 @@
  # 💫 Hi 👋, I'm Ghanashyam Budhathoki
-A passionate Full Stack and application Developer from Nepal
+A passionate developer from Nepal
 
 
 
