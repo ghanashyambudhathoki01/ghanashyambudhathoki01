@@ -55,7 +55,7 @@ A passionate developer from Nepal
 
 🚧 What I'm Working On
 
-📘 Exploring full stack and application developer course and learning
+📘 Exploring full stack developer course and learning
 
 🎯 Building confidence
 
