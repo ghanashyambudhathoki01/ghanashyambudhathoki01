@@ -39,7 +39,6 @@ A passionate developer from Nepal | Aspiring Full Stack & Application Developer
 
 ## 🎓 Education & Background
 - Focused on *Full Stack Development*: Laravel and PHP  
-- Building mini-projects while learning *Git, GitHub, Node.js, MongoDB, and Firebase*  
 - Goal: Contribute to open-source and professional projects
 
 ---
