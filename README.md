@@ -27,8 +27,9 @@ A passionate developer from Nepal
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />  
 </div>  <div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center; margin-top: 10px;">   
  <!-- Tech Stack -->   
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="30" alt="php logo" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">  
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">  
