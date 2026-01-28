@@ -1,6 +1,5 @@
-
-# 💫 Hi 👋, I'm Ghanashyam Budhathoki
-A passionate developer from Nepal
+# 💫 Hi, I'm Ghanashyam Budhathoki
+A passionate developer from Nepal | Aspiring Full Stack & Application Developer
 
 <img src="https://komarev.com/ghpvc/?username=ghanashyambudhathoki01&style=plastic&color=blueviolet" alt="Profile Views"/>  
 
@@ -8,81 +7,44 @@ A passionate developer from Nepal
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧑‍💻 About Me
+- 📍 Location: Dolakha, Nepal  
+- 🎓 Learning Phase of Full Stack Development  
+- 💻 Aspiring Full Stack & Application Developer  
+- 🧠 Always learning, building projects, and sharing knowledge  
+- ☕ Coffee lover and problem solver
+- 📱 Mobile Application developer (Flutter)
 
+---
+
+## 🛠️ Tech Stack
 <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter">
 </div>
 
 ---
 
-## 🐍 Fun Section
-<div align="center">  
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />  
+## 🧰 Tools & Technologies
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="Windows">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase">
 </div>
 
 ---
 
-## 🏷️ Badges
-<div style="display: flex; flex-wrap: wrap; gap: 5px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">  
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">  
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">  
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">  
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">  
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">  
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">  
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">  
-  <img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git & GitHub">  
-  <img src="https://img.shields.io/badge/Productivity-20b2aa?style=for-the-badge&logo=notion&logoColor=white" alt="Productivity">  
-  <img src="https://img.shields.io/badge/Consistency-ff6347?style=for-the-badge&logo=clockify&logoColor=white" alt="Consistency">  
-  <img src="https://img.shields.io/badge/Hard_Working-ff8c00?style=for-the-badge&logo=zapier&logoColor=white" alt="Hard Working">  
-  <img src="https://img.shields.io/badge/Funny-ff69b4?style=for-the-badge&logo=messenger&logoColor=white" alt="Funny">  
-  <img src="https://img.shields.io/badge/Coffee-Love-6f4e37?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Coffee Lover">  
-</div>
-
----
-
-## 🎓 About Me
-<strong>
-🎓 Learning Phase of Full Stack Development  | 💻 Aspiring Full Stack and Application Developer | 📚 Sharing My Learning Journey  
-📍 Dolakha, Nepal | 🧠 Always learning and building projects.
-</strong>
-
----
-
-## 🚧 What I'm Working On
-- 📘 Exploring full stack development course and learning  
-- 🎯 Building confidence  
-- 🧰 Documenting everything I learn in public
-
----
-
-## 🧠 What I'm Learning
-- Full stack development  
-- Using Git and GitHub to manage and publish code
-
----
-
-## 📘 My Learning Journey
-I began learning full stack and application development with the goal of building a future in tech, even though I had no programming background.  
-Alongside full stack and application development, I’ve explored tools like Git and GitHub. My focus now is practicing consistently, building mini projects, and learning how real-world tools and code work together.
-
----
-
-## 📈 My Goals
-- Contribute to open-source beginner repositories  
-- Build mini projects  
-- Learn full stack development
+## 🎓 Education & Background
+- Focused on *Full Stack Development*: Laravel and PHP  
+- Building mini-projects while learning *Git, GitHub, Node.js, MongoDB, and Firebase*  
+- Goal: Contribute to open-source and professional projects
 
 ---
 
