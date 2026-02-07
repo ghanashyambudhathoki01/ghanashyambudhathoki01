@@ -1,9 +1,10 @@
-<div align="center">
+<div align="center" style="margin-bottom: 16px;">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Ghanashyam%20Budhathoki&fontSize=42&desc=Mobile%20Application%20and%20Web%20Developer"
     width="100%"
   />
 </div>
+
 
 
 # 💫 Hi, I'm Ghanashyam Budhathoki
