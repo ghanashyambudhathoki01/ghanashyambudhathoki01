@@ -1,3 +1,11 @@
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Ghanashyam%20Budhathoki&fontSize=42&desc=Mobile%20Application%20and%20Web%20Developer"
+    width="100%"
+  />
+</div>
+
+
 # 💫 Hi, I'm Ghanashyam Budhathoki
 A passionate developer from Nepal | Aspiring Full Stack & Application Developer
 
@@ -69,4 +77,12 @@ A passionate developer from Nepal | Aspiring Full Stack & Application Developer
   <a href="https://tiktok.com/@samrajbudhathoki012" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&color=000000&logoColor=white&style=for-the-badge" height="35" alt="tiktok logo" />
   </a>
+</div>
+
+<div align="center">
+  
+### 💖 Thank you for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
 </div>
