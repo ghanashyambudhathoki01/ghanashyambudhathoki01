@@ -5,8 +5,6 @@
   />
 </div>
 
-
-
 # 💫 Hi, I'm Ghanashyam Budhathoki
 A passionate developer from Nepal | Aspiring Full Stack & Application Developer
 
