@@ -6,7 +6,7 @@
 </div>
 
 # 💫 Hi, I'm Ghanashyam Budhathoki
-A passionate developer from Nepal | Aspiring Full Stack & Application Developer
+A passionate mobile and full stack developer from Nepal | Aspiring Full Stack & Application Developer
 
 <img src="https://komarev.com/ghpvc/?username=ghanashyambudhathoki01&style=plastic&color=blueviolet" alt="Profile Views"/>  
 
