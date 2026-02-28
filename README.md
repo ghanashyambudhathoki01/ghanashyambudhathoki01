@@ -52,6 +52,7 @@ A passionate mobile and full stack developer from Nepal | Aspiring Full Stack & 
 - +2 Rising Himse Academy (Management)
 - BBS on Gaurishankhar Multiple Campus (Ongoing)
 - Certified mobile application developer by CODE IT
+- Certified full stack developer by CODE IT
 
 
 ---
