@@ -10,13 +10,23 @@ A passionate mobile and full stack developer from Nepal | Aspiring Full Stack & 
 
 <img src="https://komarev.com/ghpvc/?username=ghanashyambudhathoki01&style=plastic&color=blueviolet" alt="Profile Views"/>  
 
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghanashyambudhathoki01&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ghanashyambudhathoki01&theme=dark&hide_border=false" width="48%" />
+</div>
+
+---
+
 ## 🧑‍💻 About Me
 - 📍 Location: Dolakha, Nepal   
 - 💻 Aspiring Full Stack & Application Developer  
 - 🧠 Always learning, building projects, and sharing knowledge  
-- ☕ Coffee lover and problem solver
-- 📱 Mobile Application developer (Flutter)
-- 🌐 Full stack developer (laravel & PHP)
+- ☕ Coffee lover and problem solver  
+- 📱 Mobile Application developer (Flutter)  
+- 🌐 Full stack developer (Laravel & PHP)
 
 ---
 
@@ -24,8 +34,8 @@ A passionate mobile and full stack developer from Nepal | Aspiring Full Stack & 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap 5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap 5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel">
@@ -47,13 +57,12 @@ A passionate mobile and full stack developer from Nepal | Aspiring Full Stack & 
 ---
 
 ## 🎓 Education & Background
-- Focused on *Full Stack Development*: Laravel and PHP
-- SEE on Kalinchowk Secondary School
-- +2 Rising Himse Academy (Management)
-- BBS on Gaurishankhar Multiple Campus (Ongoing)
-- Certified mobile application developer by CODE IT
-- Certified full stack developer by CODE IT
-
+- Focused on *Full Stack Development*: Laravel and PHP  
+- SEE on Kalinchowk Secondary School  
+- +2 Rising Himse Academy (Management)  
+- BBS on Gaurishankhar Multiple Campus (Ongoing)  
+- Certified mobile application developer by CODE IT  
+- Certified full stack developer by CODE IT  
 
 ---
 
@@ -86,9 +95,6 @@ A passionate mobile and full stack developer from Nepal | Aspiring Full Stack & 
 </div>
 
 <div align="center">
-  
-### 💖 Thank you for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
+  <strong> 💖 Thank you for visiting my profile! </strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
