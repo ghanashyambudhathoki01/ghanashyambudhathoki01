@@ -12,14 +12,6 @@ A passionate mobile and full stack developer from Nepal | Aspiring Full Stack & 
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghanashyambudhathoki01&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ghanashyambudhathoki01&theme=dark&hide_border=false" width="48%" />
-</div>
-
----
-
 ## 🧑‍💻 About Me
 - 📍 Location: Dolakha, Nepal   
 - 💻 Aspiring Full Stack & Application Developer  
