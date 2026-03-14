@@ -49,7 +49,7 @@ A passionate mobile and full stack developer from Nepal | Aspiring Full Stack & 
 ---
 
 ## 🎓 Education & Background
-- Focused on *Full Stack Development*: Laravel and PHP  
+- Focused on *Full Stack and mobile application development*  
 - SEE on Kalinchowk Secondary School  
 - +2 Rising Himse Academy (Management)  
 - BBS on Gaurishankhar Multiple Campus (Ongoing)  
