@@ -1,93 +1,83 @@
-<div align="center" style="margin-bottom: 16px;">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Ghanashyam%20Budhathoki&fontSize=42&desc=Mobile%20Application%20and%20Web%20Developer"
-    width="100%"
-  />
-</div>
 
-# 💫 Hi, I'm Ghanashyam Budhathoki
-A passionate mobile and full stack developer from Nepal | Aspiring Full Stack & Application Developer
+# 👋 Hi, I'm Ghanashyam Budhathoki 
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Laravel+%26+PHP+Specialist;Backend+Engineer;Mobile+Application+Developer;Problem+Solver+%26+Tech+Enthusiast;Coffee+Powered+Developer+☕;Building+Scalable+Digital+Solutions;Always+Learning+and+Innovating&font=Fira+Code&size=16&duration=3500&pause=1200&color=0F172A&width=700&height=35&vCenter=true)
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" />
+</p>
 <img src="https://komarev.com/ghpvc/?username=ghanashyambudhathoki01&style=plastic&color=blueviolet" alt="Profile Views"/>  
 
----
 
-## 🧑‍💻 About Me
-- 📍 Location: Dolakha, Nepal   
-- 💻 Aspiring Full Stack & Application Developer  
-- 🧠 Always learning, building projects, and sharing knowledge  
-- ☕ Coffee lover and problem solver  
-- 📱 Mobile Application developer (Flutter)  
-- 🌐 Full stack developer (Laravel & PHP)
 
 ---
 
-## 🛠️ Tech Stack
-<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap 5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter">
-</div>
+## 🚧 What I'm Working On
+- 🚀 Building scalable web applications with Laravel & PHP
+- 📱 Developing cross-platform mobile applications using Flutter & Dart
+- 🌐 Creating modern and responsive user interfaces with HTML, CSS, Tailwind CSS, Bootstrap, and JavaScript
+- ⚙️ Designing secure and efficient backend systems and RESTful APIs
+-  ☕ Solving real-world problems through technology, one coffee at a tim
+
 
 ---
 
-## 🧰 Tools & Technologies
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="Windows">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase">
-</div>
+## 🧠 What I'm Learning
+- 🏗️ Advanced Software Architecture & System Design
+- ⚡ Scalable Backend Development with Laravel
+- 🔐 API Security, Authentication & Authorization
+- ☁️ Cloud Computing & Deployment Workflows
+- 🤖 AI Integration in Web & Mobile Application
 
 ---
 
-## 🎓 Education & Background
-- Focused on *Full Stack and mobile application development*  
-- SEE on Kalinchowk Secondary School  
-- +2 Rising Himse Academy (Management)  
-- BBS on Gaurishankhar Multiple Campus (Ongoing)  
-- Certified mobile application developer by CODE IT  
-- Certified full stack developer by CODE IT  
+## 📘 My Learning Journey
+My journey in software development started with a question: how do websites and applications really work? I was curious about what goes on behind the scenes. So I began learning the basics of web development. This included HTML, CSS, JavaScript, Bootstrap and Tailwind CSS. These tools helped me build websites and applications that're easy to use and look good on different devices.
+
+As I got more into development I started to learn about backend engineering. I used PHP and Laravel to build web applications. I learned how to make applications that can handle a lot of users create APIs manage user accounts and deal with business rules.
+
+I wanted to learn more so I started exploring mobile application development. I used Flutter and Dart to build applications that can run on both Android and iOS devices. Along the way I got hands-on experience with PostgreSQL for designing and optimizing databases. I used Postman to test APIs and Git & GitHub to work with others on projects. I also used Visual Studio Code and Windows to make my development process smoother.
+
+---
+
+## 📂 Featured Projects
+
+📌 Nepali News Portal
+
+A comprehensive, high-performance news publishing website crafted for fast load times. Built with a Laravel back-end management system, an administrative control panel, secure publishing states, and a responsive frontend interface.
+
+
+📌 Carrer Link
+
+A professional development platform featuring networking, jobs listings, and application trackers. Built on a modular PHP foundation with custom controllers, data models, and reactive user experiences.
+
+---
+
+## 📈 My Goals
+- 🚀 Building scalable and impactful web and mobile applications.
+- ⚡ Mastering Backend Engineering, System Design, and Software Architecture.
+- 📱 Creating high-performance cross-platform mobile applications with Flutter.
+- ☁️ Expanding expertise in Cloud Computing, DevOps, and modern development workflows.
+- 🌍 Contributing to open-source projects and the global developer community.
 
 ---
 
 ## 🔗 Connect with Me
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 5px;">
-  <a href="https://www.youtube.com/@Decoded_By_Ghanashyam012" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/ghanashyam-budhathoki-3a7014381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0A66C2&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/ghanashyam_072/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="mailto:ghanashyambudhathoki03@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://medium.com/@ghanashyambudhathoki03" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&color=000000&logoColor=white&style=for-the-badge" height="35" alt="Medium logo" />
-  </a>
-  <a href="https://x.com/ghanashyam_072?t=66He60KVEe0fv27jO93r2Q&s=09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="twitter logo" />
-  </a>
-  <a href="https://github.com/ghanashyambudhathoki01" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="35" alt="github logo" />
-  </a>
-  <a href="https://tiktok.com/@samrajbudhathoki012" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&color=000000&logoColor=white&style=for-the-badge" height="35" alt="tiktok logo" />
-  </a>
-</div>
-
-<div align="center">
-  <strong> 💖 Thank you for visiting my profile! </strong>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ghanashyam-budhathoki-3a7014381/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ghanashyam.codes/)
