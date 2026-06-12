@@ -68,6 +68,7 @@ A comprehensive, high-performance news publishing website crafted for fast load 
 A professional development platform featuring networking, jobs listings, and application trackers. Built on a modular PHP foundation with custom controllers, data models, and reactive user experiences.
 
 📌 Shop Management Web App
+
 A full-featured shop management system built with Laravel 12 & Tailwind CSS 4  POS, inventory, customers, suppliers, expenses, reports & role-based access control.
 
 
